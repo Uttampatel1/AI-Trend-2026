@@ -1,7 +1,11 @@
 
 ---
 
+
 ## 🧠 **AI Agent Teams – Key Concepts**
+
+
+<img width="1183" height="1329" alt="ChatGPT Image Apr 21, 2026, 07_11_21 PM" src="https://github.com/user-attachments/assets/214ec0c4-509e-41cc-8774-8eb7b5e60d14" />
 
 ### 1. **Why Agent Teams Are Needed**
 
