@@ -3,6 +3,7 @@
 Software as a Service (SaaS) is not disappearing—it’s undergoing a structural transformation. AI has compressed development timelines, reduced costs, and shifted value away from “tools” toward **outcomes**.
 
 This expanded playbook goes deeper into each step so you can move from theory to execution with clarity.
+<img width="1024" height="1536" alt="ChatGPT Image Apr 24, 2026, 07_19_51 PM" src="https://github.com/user-attachments/assets/201a01a7-a497-435a-96fa-ac80d49dcda7" />
 
 ---
 
